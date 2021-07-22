@@ -1,2 +1,3 @@
-# paddlle
-This is a 1 vs 1 paddle game
+# Paddle
+
+This is a retro 1 vs 1 Paddle game. That is written using the turtule module.
